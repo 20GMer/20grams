@@ -150,6 +150,8 @@ Currently a solo vision seeking:
 
 Join us in making protein populist, not posh.
 
+<br></br>
+
 <div align="center">
   <p><b>India's ready. The world's waiting. Are you in?</b></p>
 </div>
