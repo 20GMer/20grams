@@ -142,22 +142,6 @@ Currently a solo vision seeking:
 - Ground-floor opportunity in India's protein revolution
 - Projected 100% profit margins at scale
 
-```mermaid
-gantt
-    title 20grams Launch Timeline
-    dateFormat  YYYY-MM-DD
-    section Product
-    R&D           :a1, 2025-04-01, 60d
-    Certification :a2, after a1, 45d
-    Production    :a3, after a2, 30d
-    section Marketing
-    Brand Dev     :b1, 2025-04-15, 45d
-    Initial Mktg  :b2, after b1, 30d
-    section Sales
-    Distribution  :c1, 2025-06-15, 45d
-    First Sales   :milestone, after c1, 0d
-```
-
 <br></br>
 
 ## 🔥 The Call to Action
